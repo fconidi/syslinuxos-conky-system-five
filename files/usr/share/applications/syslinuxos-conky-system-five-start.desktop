@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Start Conky-System-Five
+Exec=syslinuxos-conky-system-five start
+StartupNotify=false
+Terminal=false
+Icon=syslinuxos-conky
+Categories=X-SysLinuxOS-Conky;
